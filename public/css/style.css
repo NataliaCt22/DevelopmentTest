@@ -1,0 +1,30 @@
+
+.controls{
+    padding: 2% 3% 2% 3%;  
+}
+.submitContainer{
+    text-align: center;  
+}
+
+.controls .title-number{
+    font-weight: lighter;
+    font-size: 22px;
+    color: #313745;
+    margin-top: 5%;
+    text-transform: capitalize;
+}
+.header{
+    text-align: center;
+    font-weight: 800;
+    padding: 1%;
+    background: rgba(141, 194, 124, 1);
+    text-transform: capitalize;
+}
+#submit{
+	margin-top: 3%;
+	text-align: center;
+}
+h2{
+	font-weight: bold;
+	color: #fff;
+}
